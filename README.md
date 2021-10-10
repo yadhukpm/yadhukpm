@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yadhukpm
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in automation industies
 - 📫 How to reach me yadhu2266@gmail.com
 
 <!---
